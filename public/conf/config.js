@@ -1,8 +1,8 @@
-window。config = {
+window.config = {
   // 网站标题
   siteName: 'Subconverter Web',
   // API 地址
-  apiUrl: 'https://ioixklpukjae.us-east-1.clawcloudrun.com',
+  apiUrl: 'http://127.0.0.1:25500',
   // 短域名服务地址
   shortUrl: 'https://s.ops.ci',
   // 首页菜单
